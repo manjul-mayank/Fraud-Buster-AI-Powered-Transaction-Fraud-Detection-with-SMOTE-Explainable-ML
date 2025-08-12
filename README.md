@@ -88,9 +88,6 @@ Email: manjul2012mayank@gmail.com
 
 ---
 
-If you want, I can also **add some AI-generated SHAP & LIME images** into the repo so the `README.md` looks even more like a **masterpiece of data science storytelling**. That would visually glorify the work far beyond just the single PNG you have now.  
-
-Do you want me to prepare those visuals too?
 
 
 
